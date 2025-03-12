@@ -10,13 +10,13 @@ This project is a full-stack application for detecting leaf anomalies using an a
 ![Home Page](assets/images/about.png)
 ![Home Page](assets/images/interface.png)
 ###DataSet
-![Home Page](assets/images/data2.png)
-![Home Page](assets/images/data3.png)
-![Home Page](assets/images/data1.png)
-![Home Page](assets/images/data4.png)
-![Home Page](assets/images/data5.png)
-![Home Page](assets/images/data6.png)
-![Home Page](assets/images/data7.png)
+![DataSet](assets/images/data2.jpg)
+![DataSet](assets/images/data3.jpg)
+![DataSet](assets/images/data1.jpg)
+![DataSet](assets/images/data4.jpg)
+![DataSet](assets/images/data5.jpg)
+![DataSet](assets/images/data6.jpg)
+![DataSet](assets/images/data7.jpg)
 
 ### Results Page
 ![Results Page](assets/images/pic1.png)
